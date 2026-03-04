@@ -2,22 +2,22 @@
 
 This repository contains small Java projects built to practice Object-Oriented Programming (OOP) concepts.
 
-## 📌 Included Systems
+##  Included Systems
 - Grade Management System
 - Parking Management System
 - Person Management System
 - Retail Management System
 
-## 🧠 OOP Concepts Practiced
+##  OOP Concepts Practiced
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Abstraction
 
-## 🛠 Technologies
+##  Technologies
 - Java
 
-## 🎯 Purpose
+##  Purpose
 This project was created to practice Java OOP design and system structure.
 
 ---
